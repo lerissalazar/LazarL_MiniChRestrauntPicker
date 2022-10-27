@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0WwEDbR2rQmXUoOG8k0HQnrxTkk6FTRrTmwNn9N2uQ5AaREH3wPLUQOPgug7dUSyn3ycE6wsbER2mwu3zlDqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leris\\OneDrive\\Desktop\\CodeStack 22-23\\level_1\\mini_challenges\\LazarL_MiniChRestrauntPicker\\LazarL_MiniChRestrauntPicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leris\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\leris\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leris\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\leris\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\leris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\leris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
